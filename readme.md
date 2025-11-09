@@ -290,7 +290,7 @@ python-app-CICD/
 
 **mansi kadam**  
 AWS | DevOps | Python Developer  
-🔗 [GitHub Profile](https://github.com/mansi kadam1100)
+🔗 [GitHub Profile](https://github.com/mansikadam1100)
 
 
 
@@ -306,4 +306,5 @@ A special thanks to **Trupti Ma’am** for her valuable guidance and support thr
 
 
 ## "Automation is not the future — it’s the present. Let Jenkins do the work for you!" 
+
 
